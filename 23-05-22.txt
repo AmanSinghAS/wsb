@@ -1,0 +1,185 @@
+Author,Body,Author,Body,Upvotes,Tag
+0,FU_money_pharm17,"Currently sitting in my Tesla on the side of a highway with a blown tire. Tesla doesn’t put spares in their cars because the extra weight would reduce range. 
+
+I’m buying puts and I honestly don’t give a fuck.",30,{'tesla'}
+1,SendMeHawaiiPics,Listen to the fucking market. Walmart and Target said consumer isnt buying shit.  SNAP says companies aren't advertising.  This is not about if we go into recession. We are already in it.,25,"{'target', 'walmart'}"
+2,iop9,I have severely bad news for TSLA bulls... Cathie just bought more.,20,{'tsla'}
+3,RBlankenship,“Everyone uses Microsoft teams now”![img](emote|t5_2th52|4271),13,{'microsoft'}
+4,WallStreetlegend_1,I went to Walmart for chicken breast and blackberries and  pita bread and a bag of salad and all of it was $38![img](emote|t5_2th52|4886) inflation is getting expensive ![img](emote|t5_2th52|8880),11,{'walmart'}
+5,MikeHoncho527,"almost bought 3k worth of apple puts at close, bought 1 zoom 70 put instead, fuck me",11,{'apple'}
+6,UsernameTaken_123,Netflix is filled with garbage,12,{'netflix'}
+7,alexbananas,"It's been over half a year, and I still can't believe I bought PYPL at 220 and thought it was a great deal.",11,{'pypl'}
+8,PerformerNo4354,"I came into the market in one of the largest bull runs ever. I don't have much money but it's fucking terrifying that some of you bought Coinbase at 300, NVDA at 300 NFLX at 700, ect. It's scary because being the dummy I am, if I had money I probably would've bought them too 🤡",10,"{'nflx', 'nvda'}"
+9,South_Onion,"Some DD *finally* makes it to the front page (**BBAI**) and it tanks 24%
+
+Never change WSBs ![img](emote|t5_2th52|4271)",10,{'dd'}
+10,A55_Cactus,"Imagine being like “THE ECONOMY SUCKS AND THATS WHY BASICS ARENT USING OUR APP.”
+
+Snapchat is the netflix of social media.",11,{'netflix'}
+11,letsgetapplebees,Grabbed a tsla put today 🥰,9,{'tsla'}
+12,bonejohnson8,Looks like its back to buying the Target brand stuff from now on.,9,{'target'}
+13,SendMeHawaiiPics,If costco raises the price on hot dogs it's all over. Greater Depression.,10,{'costco'}
+14,iop9,"TSLA $500 End of week back on the menu, Boys!",10,{'tsla'}
+15,thersonefifty,TSLA under 600 tomorrow please and thank you,9,{'tsla'}
+16,Cclicksss,If you would have invested in FB in 2018 you’d have the same amount of $ today,8,{'fb'}
+17,ErikBart23,"Jamie Dimon of JPM sold a BS story about how the consumer is so strong and the boomers bought into it. The only reason they upped guidance was they’re so flush with cash because of reserves and they’re not lending to people anymore, and rather than invest the money they’re just stuffing it into the fed for free interest payments. That’s why they upped guidance. Such grifters. Banks are frauds.",9,{'jpm'}
+18,aggieclams,"They had Scott Gottlieb, former Pfizer fuck boi turned government shill, on CNBC to spread Monkeypox propaganda this morning. You know they are going to milk this for all it’s worth",8,{'pfizer'}
+19,treezinthebreez,Meta lost most of the gains they got from having great earnings to Snap having bad ones.  It’s like working out 6 days a week and gaining 50 pounds of fat because your neighbor eats butter straight from the wrapper,9,{'meta'}
+20,Iknowyougotsole,Will Tesla have a 5 in front of it tomorrow?,8,{'tesla'}
+21,AlternativeExtra6447,There is no way we don’t see tesla sub $600 this week.,9,{'tesla'}
+22,golden_bear_2016,"So California tax payers subsidized $6000-$7000 for each Tesla car back when Tesla was near bankruptcy multiple times, only for Elon Musk to now call them commies and to move Tesla to Texas.
+
+![img](emote|t5_2th52|4271) ![img](emote|t5_2th52|4271) ![img](emote|t5_2th52|4271)",9,{'tesla'}
+23,Sufficient-Gold8058,I can fit 3 Costco Hot Dogs in my mouth at the same time,9,{'costco'}
+24,FameTrigger,"Fuck you grandpa, where's ma money?!",3,{'ma'}
+25,Beneficial-Youth4129,"Agree with most of good shingles and specially on useless SNAP and a likes of it! Time of junk social media to divide and isolate people in loneliness to exploit is over, no more Pandemic, people needs real connections, Apple started to regulate the unregulated industry that was addicted to abusive marketing and advertising by tracking, people are using internet for more productive purposes",2,{'apple'}
+26,UB007,Fuck bonds and fuck dividend stocks.  Apple will probably default AFTER your govt bonds and div companies.,1,{'apple'}
+27,berrymcockiner,so…. Amazon FDs?,1,{'amazon'}
+28,dataton4,"The housing market needs to crash. The average American can not afford a home. The age of vehicles on the road is at a all time high. The average American can’t afford a car either. Car payments for a new car run between 600.00 and 800.00 a month. The average American makes a little over 51,000 a year. Rent for a 2 bedroom is around 2000.00 in most cities. A house payment would cost even more. Do the math.",38,{'cost'}
+29,Yf_lo,Man…. Those 800 sqft ranch across the street from msft headquarters fetched $1.75mm back in 2016,1,{'msft'}
+30,Telinger,"Let me take a crack at this, let's start with the basics
+
+The overnight lending market is all about the banks moving money around to ensure they have adequate supply but not too much supply.
+
+Banks lend to each other in the open market. The fed tries to manipulate this rate. They announce the Target federal funds rate and then move the interbank rate into that range by dumping or vacuuming up, T-bills, T-bonds, MBS and other such things.
+
+The effort required by the Fed to keep this interbank rate within the target range will show up in the repo market. So what you're seeing in the graph is a massive drive by the fed to keep this rate within the target federal funds rate.
+
+What does all this mean?
+
+Basically, the banks are freaking out a bit. On the one side, they have loan applications drying up (so they have excess cash) and on the other side, they have more people withdrawing money from their savings (reducing excess cash). This is creating massive volatility in the system and it's why you're seeing this huge spike in the Repo Market.",6,{'target'}
+31,Ill_Statistician_629,"Yeaaa woooo! Go jpow! Congratufuckinlation! THE BIG 2 T LFG TO 3T 
+
+BRRRRRRRRRRR",4,{'t'}
+32,ShankThatSnitch,"The Fed borrows cash reserve from banks, and pays them a small amount interest. This is being done because the Treasury is not issuing enough T Bills(short term treasuries)for banks to buy. The banks are not allowed to hold too much cash cause of regulations from the great financial crisis. Usually they buy T Bills, but since there is a shortage, the Fed is allowing the extra reverse repo to ease pressure on the banks.
+
+If they didn't do this, the banks would forced to buy longer duration treasuries, which would fuck with the yield curve, and could potentially cause Market panic.",11,{'t'}
+33,MoonTanned8,"Repos originally started as a way for banks to lend their securities/loans for cash on an overnight basis to ensure they met liquidity requirements. Prior to the GFC, they borrowed excess reserves from another bank.
+
+During the GFC, it became difficult to determine the liquidity/solvency of financial firms on a day-to-day basis so the liquidity in the repo market dried up. This put otherwise solvent firms at risk of becoming illiquid.
+
+In steps the Fed with a simple solution. They will be your overnight borrower or lender, assuming you collateralize quality securities (not unique/random portfolios of loans). It became difficult for individual banks to compete with the Fed since they essentially would need to have enough liquidity that they would be willing to accept rates below the Fed to offload the excess overnight. That is generally uncommon so more and more liquidity flowed into the Fed each day at 1:30pm instead of being traded amongst banks each day.
+
+That's it. It's not a sign of stress or anything ominous. It's simply the result of the Fed inserting itself as a pseudo-clearinghouse for overnight borrowing/lending.
+
+Tl;Dr: GFC was in part caused by uncertain liquidity availability. Fed knows this is an easily solvable problem so they guarantee the liquidity each day.",5,{'met'}
+34,ShankThatSnitch,"The Fed borrows cash reserve from banks, and pays them a small amount interest. This is being done because the Treasury is not issuing enough T Bills(short term treasuries)for banks to buy. The banks are not allowed to hold too much cash cause of regulations from the great financial crisis. Usually they buy T Bills, but since there is a shortage, the Fed is allowing the extra reverse repo to ease pressure on the banks.
+
+If they didn't do this, the banks would forced to buy longer duration treasuries, which would fuck with the yield curve, and could potentially cause Market panic.",1,{'t'}
+35,ShankThatSnitch,"Wrong. This is because there is a shortage of T Bills The Treasury is not issuing enough for banks to buy, to park their cash, so the Fed is allowing the reverse repo to soak up the cash.",25,{'t'}
+36,ToughHardware,if only the market could set the price for t bills.. but that would be capatili.....,11,{'t'}
+37,smokeypizza,"Money has already been flowing slower lately. Banks like MS have seen companies having down funding rounds at 50-60% previous values. Investors are done waiting for dreams, they want heavy cash flow.",1,{'ms'}
+38,Affectionate-Law1680,"TLDR: that reverse repo rate moves with the target fed funds rate.  The fed hiked 75bps so far this year, the rrp rate went up 75bps
+
+The reverse repo rate is just the floor rate in the fed funds corridor.  The fed instituted it following the gfc bc there was too much money in the system and they were afraid when they raised rates the fed funds rate would not go up (and this would fall outside their target band). It’s gone from 5bps to 80bps because the fed has hiked rates 75bps.
+
+The reverse repo rate is thus the floor for the rate in the fed funds corridor and the ioer rate is the ceiling (interest on excess reserves). Fed effective rates can trade out of this range, there is a credit component.
+
+Fwiw, that 2 trln won’t be around much longer. The fed is actively unwinding their balance sheet and draining reserves. As they drain reserves repo rates will move above the reverse repo rate, and no one will have an incentive to park cash at the reverse repo facility.
+
+So rrp usage is going to 0 but it’s because the the fed is unloading their balance sheet (reducing the amount of reserves and money supply in the system)",20,{'target'}
+39,ScipioAtTheGate,"Except that holding funds in the FED eliminates all risk of loss by the bank keeping the fund there, so taking the rate to 0 would still give the banks an incentive to keep the funds there to eliminate risk of loss. The only way to drive banks away from it is to make the interest rate NEGATIVE so the banks incur a cost by keeping their money there.",3,{'cost'}
+40,AlienDetectives,Are they actually issuing less than usual or is it the ratio of T Bills to liquidity that’s different? Thanks for clarification,5,{'t'}
+41,ShankThatSnitch,"Obviously the demand is elevated, but they actually froze issuance of T Bills. There was problems with the debt cieling stuff, and other shit I am failing to remember right now.",16,{'t'}
+42,ShankThatSnitch,"I doubt it would raise much at all. There is so much demand for them right now, it would be 2 trillion of money shifting from the reverse repo to T Bills before the demand starts to have a huge effect on the rate. Also T bill are the shortest end of the curve, so the rate is already super low in general, so there isn't much room to go up anyways.",1,{'t'}
+43,N0L00KINGBACK,I got their new visa card to milk them out of $200. I never pay interest either. WFC has been shafting people as long as I can remember. Puts on WFC,6,"{'visa', 'wfc'}"
+44,The-Night-Raven,"Nice, Cramer going to crash banks. My BAC $35 PUTs will do well.  Thanks Cramer.",4,{'bac'}
+45,NOT_MartinShkreli,"Not disagreeing but just saying they “should” be on the better side of leverage here, but Buffet usually knows something others don’t also … (fought activision) 
+
+I regret not holding my BAC 1/2023 $35 puts to expiry, I think they’ll be on the wrong side of some bad bets.",3,{'bac'}
+46,Nickcagesgod,Did he sell bac too?,2,{'bac'}
+47,LightningWB,It’s nice to see the Oracle return,0,{'oracle'}
+48,tommygunz007,"Now this is the DD I came for. 
+
+I have a break even put for $386.92 for Wednesday. Do you feel I will at least break even and be able to get out of it?",1,{'dd'}
+49,Badmannoobie,"Everytime i see someone do DD on BBAI it makes me happy as I’ve been in the play for a while and new people realise everyday the potential of this play.
+
+888k shares traded daily, once volume comes in this will be a dirty, fithy rip!",23,{'dd'}
+50,The-tan-man,"Very few if any set ups like this right now, should see some volume come then have big pile on effect and massive upward explosion",7,{'ups'}
+51,DiCe_Roll24,Bring the volume and this could go. Great DD by Penny. Holding shares and June 10/12.5s.,19,{'dd'}
+52,theXJlife,I will put it on my watch list. Solid DD OP. Good to know there is someone to trust on this sub.,2,{'dd'}
+53,assholier_than_thou,"The DD said it would be choppy, maybe get some super discounted calls for a 100x return.",2,{'dd'}
+54,Belzer_fundamentals,"I didn’t read hardly any of the DD but fuck it I’m in!Think I read the word gamble, gamma and bet the barn so I’m all in.",1,{'dd'}
+55,MontyAtWork,"What do you mean, it's only down -30% AH lololol.
+
+If anyone is ever wondering which DDs are and aren't legit, study the **fuck** out of this one. Read it. Read it again. Look at what it's actually saying, what it keeps hinting at.
+
+This DD contains *nothing* about the company and every piece of data is just one to entice you into thinking it's a Squeeze Play without directly saying it.
+
+It just says the volume is low, Market Makers might be doing something, there's a confirmation about the float being only X number which seems low/attainable. That's it, this DD literally contains no information beyond intimation.
+
+If you care about your money, if you care about this community, study this shit DD carefully and learn how to separate the frauds from the actual excited investors.
+
+**Edit** And remember, the reason that GME as a squeeze play was viable, was that the gaming and gamemerch industry wasn't going anywhere, and it had a new CEO with a new vision to revitalize the company. Fucking the shorts was just the cherry on top. Don't follow DDs about squeeze plays that don't come with business revitalization plans alongside them.",36,{'dd'}
+56,DiCe_Roll24,Read the part of the DD about the S1 EFFECT. It’s in one of Pennys original posts too.,7,{'dd'}
+57,PalletOgre,"wsb and getting dumped on
+
+wsb and yoloing because a dd had lots of words and graphs
+
+wsb and bagholding because ""it's not a loss until you sell""
+
+damn wsb, they ruined wsb!",7,{'dd'}
+58,assholier_than_thou,"The DD said it would be choppy, maybe get some super discounted calls for a 100x return.",-2,{'dd'}
+59,cmurray92,"You're looking at the shares outstanding my guy. Due to the nature of these types of stocks a large portion of these shares are locked up, reducing the free float (in this case down to 1m shares see Ortex's Twitter about it). When we pair this with the short interest at 787K shares, we have a stock that's all of a sudden 78% shorted with 600%+ Cost to borrow and a shorty's worst nightmare.",5,{'cost'}
+60,cmurray92,"This is a case of worst timing ever. I was using Pennyether’s DD to get everyone on board to pump the stock similar to $SST before it initiated 424B3 (SST had 424B5 on 4/19 it’s pretty much the same thing) and we all saw how high SST ran up first before it plummeted. That was the game plan. Obviously the DD warns of this happening eventually, I just thought we had time to initiate a squeeze first, especially since they had just released a bunch of changes to the prospectus on 5/19 we didn’t think they’d release the 424B3 so quick. The squeeze potential was off the charts, 78% SI, 600% CTB, top gamma squeeze, etc etc. just getting fucked yet again in the end.",3,{'dd'}
+61,sixplaysforadollar,Doesn’t help that the original dd was posted days ago. When it was a profitable trade so at the time penny was right.  Low float spacs move quick,4,{'dd'}
+62,Immediate_Shoe589,You came in here with your dd so you suckered in more ppl,3,{'dd'}
+63,LockedInLosses,I'm actually over at the Walmart parking lot. Its safer and more quiet.,2,{'walmart'}
+64,MontyAtWork,"Positions?
+
+Thanks for the pump and dump DD fam.
+
+>You're gay enough to search Google News for ""revitalize"" and dumb enough to pick a bullish CNBC headline about AMC.
+
+And in those 5 minutes, I did more research for my reply than you did in passing off your pump and dump as DD lmao
+
+And having your own subreddit cronies brigade downvote my replies to you isn't a good look. Might want to get on the discord/Twitter horn and tell them to quit it. I've got half a dozen other replies to people, shitting on the stock, and somehow they're all upvoted while all my replies to you are downvoted.
+
+Interesting 🤔",1,{'dd'}
+65,Pezzonovante__,Come on OP I need some DD on this ASAP,23,{'dd'}
+66,wingwingherro92,tldr: TSLA 31/05 1000c,7,{'tsla'}
+67,burtburtburtcg,Post positions with cost basis,3,{'cost'}
+68,burtburtburtcg,"You’ve got your “real life money” on the line and don’t even know your cost basis. 
+
+Down at least 35%. 
+
+You took the whole “ape” thing too seriously. 
+
+Never go full regard.
+
+But hey, they just released an NFT wallet. Surely that will take the stock to infinite price levels. NFTs are super relevant. Can’t store jpegs anywhere else.",2,{'cost'}
+69,gncRocketScientist,Its worth mentioning that BA is our biggest dollar value exporter. They didnt pencil in losing china as a customer long term. They're moving HQ closer to the pentagon. Make of that what you will.,1,{'ba'}
+70,what_is_blue,"China's probably done for if that's the case, though. The middle class is 30% of the population (by income), compared to 50% in the US and 60% in Japan. So they're not going to have as many people buying stuff. 
+
+Xi wants to level them up. Which would be fine, except their stock market was the second worst performing in the world last year (just ahead of Pakistan, in 59th place). Yeah, the stock market's not the economy, but it does wave a whole fuckton of red flags regarding the fault lines behind their economic miracle. Namely corruption, expropriation and epic governmental overreach. 
+
+Speaking of, their tech index plunged 61% from its peak last year. Meanwhile, their ten biggest tech firms have lost a combined $1.7trillion in their collective market value. A lot of that's attributed to governmental overreach. 
+
+They also spent a metric fuckton on real estate. About 15% directly, or 25% if you count upstream and downstream sectors. Half, *half* of all business investment in recent years has been in the property sector. That's more than Spain and Ireland (and those people love property) before the Eurozone crisis. 
+
+A Beijing flat was suddenly 25 times the average wage. The central bank tried to release some air from the bubble, while Evergrande imploded. So that party's over. Or it certainly can't be sustained. 
+
+All of this not forgetting that Xi had half the country in some form of lockdown not too long ago, including 100m people in total lockdown. So as well as the economic cost of pursuing zero Covid, he's also pissed off a vast number of his people. 
+
+Then there's the mess that is the Belt and Road initiative. All I'll do there is point to the utter shitshow in Sri Lanka to suggest that *maybe* saddling developing countries with wildly unrealistic levels of debt might not be the way forward, either. 
+
+Now, it's not all doom and gloom. But it's not exactly an environment that encourages tech innovation or sustainable growth.",18,{'cost'}
+71,ER1234567,"Rather than driving to Starbucks to get coffee, he just lives there. Saves on gas",16,{'starbucks'}
+72,chahn32,"Globalization is a good thing. But it takes deliberate work to sustain.
+
+The US was willing to put in the work and pay the cost during the Cold War to get an alliance to fight the Soviets.
+
+Post Cold War the US hasn’t had the conversation of why we pay the cost to ensure globalization. Hell a 600 ship Navy was required back then to ensure freedom of navigation for everyone. Now the US seems to be going back to its historical naval budget of whatever the admirals can get from behind the dumpster at Wendy.",3,{'cost'}
+73,recurse_x,Yeah but its disguised as a TikTok soft sell POV video of a guy charging a Tesla who sells classes on renting out section 8 properties he bought by reselling Costco hotdogs.,3,"{'costco', 'tesla'}"
+74,Onebadmuthajama,"It's all fine until the music stops playing.  Once there's an incredibly scarce supply of food, and resources, it's not about helping the world, it's about survival.  Look at India, and their wheat shortage, look at Ukraine, and Russia no longer able to export wheat to the US.  Globalization only works when the big players want to participate in it.
+
+As soon as one of them moves away, it's a dangerous game for everyone.  War is an inevitable factor in societies, every single one in history has had wars, and globalization isn't a solution, it's a bandaid.
+
+If every country \*could\* provide for themselves, then you'd think we'd all be in better shape for it.  Instead, we have countries that suckle the teets of the rich countries in order to survive, and that's only going to last as long as the money is flowing.  It's all fine until the music stops playing.
+
+Look at what happened with the middle east as soon as the US stopped supporting them.  It was an instant disaster, they were under prepared, and it cost them dearly.",0,{'cost'}
+75,Das_Siegfried,Where's that guy with the DD about monkeypox spreading around the world? ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4641),1,{'dd'}
+76,PUMK1ng,"Have a sensible stoploss and trail it when you reach some milestones like when you reach 1:1 you can trail your stoploss to the entry price thus ensuring that no loss is made in the trade, subsequently when the price is at your target price and the price action seems to be in your favour, you can trail your stoploss few ticks/pips away from the last swing and hold onto your winning trade.
+
+This way you can secure a big profit once in a while.",1,{'target'}
+77,New_Train4205,You forgot Tesla,1,{'tesla'}
