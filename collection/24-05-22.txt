@@ -1,0 +1,309 @@
+Author,Body,Author,Body,Upvotes,Tag
+0,msupz,Let me just say this: spy did not do what I wanted it to do today and it cost me dollars.,49,{'cost'}
+1,nomadofwaves,[Bill Gates](https://i.imgur.com/a3Wwczu.jpg) with his $500m tsla short position.,23,{'tsla'}
+2,TheRealGiana,Buy the fuckin dip on GOOGL and FB,14,"{'googl', 'fb'}"
+3,dudewhosbored,"Enjoy this volatile market while it lasts. Something tells me that once we truly hit bottom, we don't V this time and instead do a slow ramp up over a long period 😒",17,{'v'}
+4,stonk_detective,"If TSLA opens under $600, I’ll post a pic of my ass. Beware.",16,{'tsla'}
+5,NKisAlive,My dad works for microsoft and he said JPOW will announce a 20 to 1 USD split next week to combat inflation.,13,{'microsoft'}
+6,__Captain_Yolo__,We 🟥 boys 🥰 TSLA -8% repeat please,11,{'tsla'}
+7,-C20H24O3,Lol Musk doesn’t give a fuck about TSLA rn. SpaceX valuation just hit $125 billion today in a new round of funding. Double the market cap of Boeing.,12,{'tsla'}
+8,thersonefifty,patiently waiting for aapl to warn on Q2 and trigger breakers,12,{'aapl'}
+9,ienjoycorgis,"Nvidia bros I know it’s early but get in here boys we won, let’s get that bread tomorrow",11,{'nvidia'}
+10,Dativemo,Guys buy Tesla now !! It’s only trading at a 85x PE ratio ![img](emote|t5_2th52|4271),10,{'tesla'}
+11,The_Collector4,I’m down 30% on Tesla,13,{'tesla'}
+12,chiggaroni,Someone paid $16.3M premium for GOOGL Aug 19 $2100 calls today ho lee shit. That’s a big ass bet.,11,{'googl'}
+13,Junesathon,Wtf happened to tesla wow,9,{'tesla'}
+14,aramvula,Love death & robots is a good watch on Netflix it’s like mini clips of random ass shit to watch when ur high asf,8,{'netflix'}
+15,Lurker9605,Just looked at the 1 month chart. It’s crazy how every pump is met with a more aggressive sell of leaving consistently predictable lower highs and lower lows.,10,{'met'}
+16,zombie_harv,I have good intel saying tomorrow the market is going to,9,{'intel'}
+17,Kythirius,"Another underwhelming dead cat bounce, followed by a week straight of anal hemorrhaging. 
+
+Lather, rinse, repeat.",10,{'cat'}
+18,PatrickSebast,Why don't any of these crazy gunmen ever target people in power that made their lives worse?  Children have zero impact on your life if you are a neet.  Go attack a federal reserve site so I can see some turret statues in action,23,{'target'}
+19,iyervikas81,keeping some gunpowder ready to buy NVDA at 100 tomorrow for long term after ER,8,{'nvda'}
+20,Glassesofwater,"If anyone ever tells you to follow the Dow Jones Industrial Average, it is imperative you check a calendar cause you’ve probably time travelled to 1955.",7,{'dow'}
+21,ImagineImagining12,Apparently commenting here made me the target of some sex scam bot. What does this mean for the market?,8,{'target'}
+22,lipmanz,I miss the days when Ackman was telling us all to stay home eat Chipotle and watch Netflix to save the world vs now telling JPOW to hike the f out of rates,8,{'netflix'}
+23,Blazzck7,Tesla puts let’s go,8,{'tesla'}
+24,ImAMaaanlet,"Look at what snap did to the market, imagine when aapl lowers guidance ![img](emote|t5_2th52|4271)",8,{'aapl'}
+25,Equivalent-Ad1182,"“Ricky Gervais’ new Netflix special blasted as ‘dangerous anti-trans rants’“
+
+I’m re-subscribing",22,{'netflix'}
+26,Yeezzeus,"It’s time you choose, green apple or red apple?
+
+       🍎 🍏",7,{'apple'}
+27,h3nchman27,Watch these GOOGL calls print BIGLY. Hopefully. Maybe. Idk,8,{'googl'}
+28,TerriBern,Twitter circus taking Tesla down with it has some sort of perverted justice feel to it.,8,{'tesla'}
+29,AmbitiousSkirt2,Wtf they added a bell sound when it hits 8 pm on the market 😂,6,{'pm'}
+30,Blazzck7,Bro Tesla puts under 600 eod,7,{'tesla'}
+31,DaySwingTrade,"Don’t even know wtf happened today. Just got my bearings after couple beers. Swinging shares and options for the week. Account opened -22K. Exited all at a loss. 10 Day-trades. 9 winners 1 looser (Mostly apple and QQQ calls and puts mixed Friday expiry). After bell I’m down 600 bucks overall. End up with XLE puts, Twitter calls and 1000 SQ shares. Holy shit I feel like I run a marathon. Lessons learned even after trading for yeeeaaars.",8,{'apple'}
+32,floppy_panoos,"DD for this week:
+
+FOMC minutes drop tomorrow.
+
+GDP numbers on Thursday.
+
+DD = Double Dickin’
+
+GOOG 6/3p $1800",7,{'dd'}
+33,bearhunter429,Why would NVDA miss when most chip companies (except Intel) beat estimates this quarter?,8,{'nvda'}
+34,milktea_man,First time home owner here… is replacing 5 windows and 1 sliding door really gonna cost 13K? I was quoted by a contractor today and shocked to see the price. It’s for a condo,7,{'cost'}
+35,WorkingCorrect1062,Tomorrow another round of tech dump with NVDA and SNOW,7,{'nvda'}
+36,Blazzck7,Need Tesla 600,7,{'tesla'}
+37,marinesol,"I'm going over to Shenandoah national park tomorrow and going hiking. 
+
+I'll send you guys some pictures.
+
+Also my cat won't stop shedding it has been 3 days of heavy brushing and there os still hair everywhere",6,{'cat'}
+38,Lovelylives,Can’t afford a dozen 6 month dated googl puts?,7,{'googl'}
+39,3DPrintLad,"As an AMD bro that got beat up today as well, I wish NVDA bros the best tomm. A rising semiconductor tide lifts all boats.",8,{'nvda'}
+40,e10n,Not as cool as Tim Apple,13,{'apple'}
+41,MATTwithAGat,Tesla starting to look like a big pump and dump chart,8,{'tesla'}
+42,danielsaid,"You make a couple of excellent points, but have you considered that the opposite might also be true? It is a paradox, which implies there is something deeper at work here that we don't yet understand, beyond a simple casual A->B relationship. Perhaps a confounding factor C or even more complicated. Occam's razor will mislead the reader who takes only a cursory glance at the situation but your remarkable insight has shown that this rabbit hole goes deep.",17,{'c'}
+43,synaptic_density,"non-obligatory but frequently met with obligement comment about getting trolled into opening a subreddit that doesn't exist and then replying to that comment with a mispelled komment comment.
+
+followed by obligatory fake edit: thanks 4 the updoots kind stranglers",-8,{'met'}
+44,franciscoflorencio1,Careful with PFE puts… they do have a shit ton of other drugs out there,119,{'pfe'}
+45,Barnettmetal,Don't know the specifics of Moderna but Pfizer profits from 2020 and 2021 were absolutely staggering.,18,{'pfizer'}
+46,diddone119,"I remember getting my second Pfizer vax i felt like I was dying from a heart attack for 24 hours my heart rate was like a resting 150. I went to the er I was so worried I told them I just got my second shot and they told me it was a super common side effect they were seeing in men. My heart rate ended up going down but it was a stressful 24 hours to be honest
+
+
+Edit: also I made also 4k in puts on Moderna in its last November earnings.",10,{'pfizer'}
+47,somethingventured1,"Good, fuck Moderna and double fuck Pfizer",6,{'pfizer'}
+48,Special-Apricot-2059,Pfizer has anti viral pills that they give to high risk individuals to prevent hospitalization.  Do so I am sure vaccines are a bit less important now.  Since majority of the people have gotten vaxed.,1,{'pfizer'}
+49,Purple_Lizzard,ill take another PFE shot.. i guess,1,{'pfe'}
+50,slanginthangs,JnJ wrecked me the same- way worse than when I actually got Covid (maybe that was the point but fuck that I’m good lol),0,{'jnj'}
+51,beyerch,"Funny you said that, I had pfizer as well and that second booster fucked me up for almost two weeks.  Felt so bad I would have preferred the COVID.",0,{'pfizer'}
+52,baudinl,"Pfizer is so much bigger than the COVID vaccine. Also pharma tends to be the most ""recession-proof"" sector. RIP",1,{'pfizer'}
+53,slayeralphamale,Someone's about to get fucked thinking Pfizer and Moderna only produce COVID vaccines. ![img](emote|t5_2th52|4271),2,{'pfizer'}
+54,General_Asleep,If someone want to short PFE because of this vaccine they are better off shorting BNTX. Its already fell too much for me thought.,23,{'pfe'}
+55,AggressivelyPreppy,"Viagra is off patent and was spun off with Upjohn to form Viatris. PFE doesn’t own it, but have a diverse portfolio of other leading drugs that make puts based just on the vaccine top tier retardation",4,{'pfe'}
+56,squirdelmouse,"A better play imo is pointing out the reason Moderna is binning vaccines is they're unusable in the countries/regions where the majority of the population are still unvaccinated because they require ridiculously low temperatures to store, in Belize for example there was a big delay getting Pfizer out because the only refrigerated transport infrastructure of note was chicken distributors, so AstraZeneca was the only viable option.
+
+Yet despite being sold out and having a consistent demand picture Novavax has dived with the rest of the biotech sector.
+
+Deserves a deep dive imo if anyone has the time, I have too much work on but I'd bet it's currently oversold.",2,{'pfizer'}
+57,wienerpower,To get that jnj BC clot? Mmm mmm mmmmm,0,"{'jnj', 'mmm'}"
+58,PurpleSausage77,"Then you have Kenneth C Griffin blaming American households for ruining the stock market with their 3 $600 stimmy cheques, calling us all crazy basement dwellers. Yeah I want to see the wealth of 10,000 elitist fucks get liquidated. Fuck them.
+
+The financial/business media are also guilty.",1,{'c'}
+59,Caveat_Venditor_,JPM has energetic the chat,1,{'jpm'}
+60,Inconceivable76,The also shouldn’t have paid out 1 damn cent in trader bonuses.  People who’s company were effectively bankrupt shouldn’t get a bonus for a job well done. FU AIG traders who made millions.,16,{'aig'}
+61,Groversmoney,"My thought in 2008: Give the money to the people to pay that debt, mortgage, student loan. Ear tag it on for that use. Heck, set up a website where every American enters there loans and mortgage. Pay up to $50,000 for them, to the banks. The banks still get their bailout and Americans get massive debt reduction - which would have also acted as a stimulus to the economy. AND, it still would have cost less in 2008! 
+
+The problem is, that would have lowered the indebtedness of the working class. That would have disincentivized Americans; businesses would be able to hire for meager wages, poverty and the need for modern slavery to the government (the welfare system) would become less important, and the status quo would have been upset.",1,{'cost'}
+62,1600hazenstreet,"Totally False!!  Ford sold every asset they could to raise cash before the crash.  They were only auto did not take a bailout.  GM and Chrysler most certainly took it.  The auto unions at GM and Chrysler also got bailout out too.  The whole GM bankruptcy was corrupt.  GM auto workers got their pensions saved, while white collar workers got zero.",7,{'gm'}
+63,WhenMoonsk,Lifetime earnings? More like earnings for 500-1500 years in one year ![img](emote|t5_2th52|4271) Intel ceo was paid 1700 times the average Intel employee,21,{'intel'}
+64,CobaltBlue,"1. Those target mortgages which are only part of the problem. A much bigger problem is out of control dark market derivatives which are largely unadressed.
+
+2. Even if you think mortgages are the sole issue, Trump rolled back huge swaths of that protection in 2018.",11,{'target'}
+65,AlexJiang27,"It's called. ""Too big to fail""
+
+If you have a small business and fails all the blame on you for badly management it. 
+If you are Boeing and two or your planes crash  due to bad management you are deemed ""too important for US defence"" they send you unlimited cash till able to make profits again. 
+Same happened with airlines in 2020, auto manufacturer and banks in 2008 and will happen more times in the future. 
+
+Game is rigged but we knew it from the beginning",34,{'boeing'}
+66,dascrivener,"This analyst is playing some games. If the deal closed today and afterwards TSLA fell, then he'd be margin called. If TSLA fell below $400 today, prior to close, then TWTR likely would not be able to force Elon to purchase it, as he no longer had adequate funding. This would likely result in the $1bn penalty, rather than the forced sale provision.",167,{'tsla'}
+67,ahungrylilsandwhich,Is now finally the time to short tesla,12,{'tesla'}
+68,TheBigHump,"In theory some hedge fund with deep pockets can short TSLA to under 400 and trigger the dominos fall then buy it back dirt cheap. Looking at you Melvin ![img](emote|t5_2th52|4258)
+
+Oh sorry you just DECLARED BANKRUPTCY",34,{'tsla'}
+69,angry_fap21,Elon will have to yolo into the market to save tesla before it’s too late,7,{'tesla'}
+70,BabelAndConfoundment,I’m so happy I bought Tesla calls eod yesterday! What a great thing to wake up too,123,{'tesla'}
+71,imp4455,"Margin call won’t just effect twitter but also current borrowing from musk. Last I heard he already committed 88 billion of tesla to other borrowing. So if it keeps dropping he’ll either have to commit more shares or shares will be sold. If shares sold by bank, stock will take a shit. If he has to commit more than stock will take a shit as well. I think we’re going to see the powers to be take this guy to the wood shed. He’s already gone off the deep end per his twitter posts and thinks he’s untouchable.",5,{'tesla'}
+72,Captain_Cunny,I’m going to short Tesla next week just in spite of elons cockyness,3,{'tesla'}
+73,yacnamron,He will release his Amberterd sex tape and send tsla back to Mars! Enron Tusk always has a ace up sleeve or down his pants,15,{'tsla'}
+74,ApprehensiveSorbet76,The price of lithium tripled.  The price of nickel skyrocketed.  How does this affect the cost to produce a Tesla battery and therefore a Tesla car?  I don't even want to know.  But look at the lithium price trend and see where Elon sold.  Tesla might be in trouble.,3,"{'cost', 'tesla'}"
+75,26fm65,Let’s make tesla drop and force Elon to sell his shares!,2,{'tesla'}
+76,Treat_Scary,"That would be awesome, imagine getting to buy tesla at $100-$200. That’s like buying apple at $40-$50. Fucking sick ass fire sale bring it please",2,"{'tesla', 'apple'}"
+77,unbuottawa,"This won’t happen. But the chaos that will happen in the markets from an Elon margin call would be great to watch!! Tesla actually matters and is included in all the big indices people invest through.
+
+But I thought Elon reduced his exposure to tie margin loan? Did he raise like $7 billion from a bunch Silicon Valley VC a couple of weeks ago?",2,{'tesla'}
+78,Worried-Egg-8560,"Everyone on WSB, we should all short Tesla and bankrupt Musk",2,{'tesla'}
+79,nomorerainpls,$400 TSLA is pretty steep dip. At this rate he has at least 2 more weeks to figure it out.,2,{'tsla'}
+80,wookiecfk11,"So you are saying that a massive downwards pressure dropping the price to 400$ coupled with going through with acquisition at original price would in effect be self reinforcing because it would trigger margin calls for Musk and with these amounts he can only fulfill them by selling TSLA stock at mass.
+
+Self reinforcing non sustainable vicious cycle. Kinda reminds me of something... also it would be truly glorious to watch",2,{'tsla'}
+81,HinaKawaSan,"Teslas are overhyped cars with poor build quality. I am just waiting on other manufacturers to catch up to Tesla wrt charging infrastructure, to sell mine and get a car with better build quality. I hate my Model Y, if only Cadillac Lyric was out",2,{'tesla'}
+82,Mackinstyle,I think he funniest fucking thing would be if Elon accidentally traded Tesla for Twitter.,2,{'tesla'}
+83,RedNationn,If he has a price target of 450$ for TSLA what’s his price target for GME probably 5 cents haha,0,"{'target', 'tsla'}"
+84,Mattcwu,Does Tesla really have industry leading profitability? Isn't P/E at 90?,1,{'tesla'}
+85,TalkingBackAgain,"If the market shits its pants because a bunch of clowns at $SNAP make a bit of a mopey face about their projected numbers 2 months from now, imagine what the market would do if Musk actually got margin called and $TSLA fell to below $400. It would make 1929 and 2008 combined look like a shrewd time to invest.
+
+Prediction: Musk is not buying Twitter, because by now he’s got royally soured on the idea, which was never more than a flight of fancy. If Tesla isn’t profitable, Twitter certainly isn’t. A $45 billion valuation of Twitter was always a crock of shit because it’s a glorified message board with bad-mannered people. There’s no value there.
+
+Bill Gates isn’t going to know what to do with his money when the half billion puts on $TSLA start to print.
+
+I’d like to know how to trade with puts because it seems like it could be a fantastic way to make a lot of money. /please point me to a place where I can get **a good introduction** in how to trade with puts. Thanks.",1,{'tesla'}
+86,computery_stuff,"I have huge respect for Bill Gates charitable investments into global education and curing malaria.
+
+For his investments into covid  vaccine research. 
+
+But the thing I respect most of all ...
+
+... is how he is funding it by shorting Tesla",-3,{'tesla'}
+87,canihazDD,"Omfg this whole piece had me until the end. 
+
+""Historically Unprecedented"", Jesus Christ, that's the same line people have been trying to use to devalue Tesla for the last ten years. 
+
+I agree, it may be a tad overvalued, especially entering a de/repression, but to use that phase is plain retardation borrowed from some more frugal and less forward thinking subreddit.",-6,{'tesla'}
+88,moggedbyall,He likely has 20 ideas for tesla he hasn't released yet for events like these. He can fuck over the shorts any day he wants.,-5,{'tesla'}
+89,rejectallgoats,"Well, I have July $300 puts. If he gets a little crazier and people value the stock like other car companies, it could join FB and Netflix etc.",1,"{'fb', 'netflix'}"
+90,WarrenBuffettsBuffet,"By Senad Karaahmetovic:
+
+Toni Sacconaghi, a Senior Analyst at Bernstein covering U.S. IT Hardware, has discussed implications for Tesla (TSLA) shares amid an ongoing saga concerning CEO Elon Musk and his deal to acquire Twitter (TWTR) for $44 billion.
+
+Musk may “ultimately elect or be forced to purchase Twitter going forward,” Sacconaghi told clients in a note today. The analyst took note of Musk’s deal to acquire Twitter which should be completed via debt, equity, and a margin loan.
+
+Sacconaghi pays special attention to $12.5 billion that will come from a margin loan facility tied to Tesla stock.
+
+“Following the recent drop in TSLA's stock price, Musk appears to have just enough value in his unencumbered Tesla shares to fund the margin loan portion of his proposed Twitter financing. That said, at a TSLA share price of $621 or less, Musk would technically not be able to borrow the full $12.5B against his shares - in fact, if TSLA's stock price were to drop to $500/share, he would be ~$2.5B short. If the agreed upon deal price for Twitter is ultimately haircut by 10%, Musk could still borrow enough, even if Telsa shares dropped to ~$400,” the analyst wrote.
+
+However, the bigger - but also less probable - financial risk for Elon Musk is there is a deeper pullback in Tesla shares, in combination with him completing the deal.
+
+“If the TWTR deal were to close today and subsequently TSLA's stock price dropped to $350-400, Musk could be forced to sell ~13M Tesla shares.”
+
+In other words, Elon Musk would get a margin call.
+
+Sacconaghi rates Tesla with an Underperform rating and a $450.00 per share price target as he struggles to justify TSLA's valuation, “which appears to imply huge volume AND industry leading profitability going forward, which is historically unprecedented.”
+
+Tesla stock price is indicated to open 2.5% lower today, or at $657.90.
+
+Source (https://m.uk.investing.com/news/stock-market-news/margin-call-alert-tesla-stock-falling-below-400-would-force-elon-musk-to-sell-13-million-shares-of-ev-maker-to-fund-twitter-deal--bernsteins-sacconaghi-2655243?ampMode=1)
+
+!RemindMe 1 year",1,"{'tesla', 'target', 'tsla'}"
+91,telomiro,I go all in at **420.69** on TSLA,1,{'tsla'}
+92,Colemuel55,"You are retarded if you believe that… if you have so much money in the market that liquidating that position would have a substantial negative impact on that asset, they would not margin call because they would lose money. You are also acting like the guy who has 4x the net worth of his Twitter offer doesn’t have other assets to pull from. He has financing secured to take Tesla private where he has full control of the direction of the company. This does not mean he is the sole funder. This also does not mean he is even majority share holder. What it does mean, is that in the time period after the deal, he will have full decision making power within Twitter, if it even goes through. And right now it looks like Twitter is going to get hammered by the sec for filing false or unverifiable statements that have significant impact on the value of the company. The CEO even admitted they cannot prove the 5% number they submitted and they cannot allow a third party to verify it. Twitters current business model relies on real traffic to generate advertising value. Bot traffic is not buying products. Twitter cannot force someone to buy a company based on SEC filings. Due diligence is assuming the provided information is accurate. It is unreasonable to assume all transactions require an engineering team to verify the information provided",1,{'tesla'}
+93,Easy-Detective-2418,Musk shoulda sold Tesla stonk last month to fully fund acquisition,1,{'tesla'}
+94,chuck_portis,TSLA is basically the LUNA of stocks right now.,1,{'tsla'}
+95,badevilhateful,Wait tesla is in the s&p 500 so he would technically sink the whole market,1,{'tesla'}
+96,Radiologer,"In other words, buy TSLA puts",22,{'tsla'}
+97,FEMA_Camp_Survivor,What’s the catalyst for TSLA going higher and your strategy? There’s no news and Musk seems to be distracted and increasingly controversial.,86,{'tsla'}
+98,wolololololololo,"TSLA won't recover until Q3 earnings in October, in which China also stops being retarded. Don't buy calls when there's literally no upside catalysts.",16,{'tsla'}
+99,86LeperMessiah,"Wish Granted, indoor car lights that are already installed in your Tesla now cost you a monthly subscription of 10$ a month for the ability to switch them on.",4,"{'cost', 'tesla'}"
+100,Unappreciated_King,the board could force him to pay out at the agree upon price of $54 whatever. however that deal was obviously made when he had tsla shares at $900 a share and not $650.,0,{'tsla'}
+101,AoLzHeLL,Never intended to buy tweeter. It was all a scam to sell tesla shares and for his buddies to short tweeter,7,{'tesla'}
+102,ben242,"I heard a theory that is the only explanation that made sense so far. Elon wanted to divest a bunch of Tesla shares without cratering the stock, so he manufactured a reason to do it that is perceived to be unrelated to the company — raise cash for a twitter purchase. 
+
+Admittedly I’m a shitshow when it comes to understanding the stock market, so who knows.",15,{'tesla'}
+103,TortugaAmigo,"He isn’t stupid. He isn’t the engineer/aerospace genius he pretends to be, either. (Think he personally has like three patents)
+
+Saw someone point out that he purposefully “became a republican” before his sexual assault case came out so he could classify it as a ‘hit piece’ due to his recent political stance update. He can blame it all on being R, now. 
+
+He sure as hell knows how to make money. Sold some Tesla at the top. 
+
+I am 100% sure he is three steps ahead on this Twitter shit. 
+
+Dude is sketch.",40,{'tesla'}
+104,Createyourpass1234,"He is throwing a ton of debt on a negative operational cashflow company.
+
+The only way to service this debt is to keep selling tesla shares to fund it, or start charging users or throw up more ads which would collapse the quality of the user experience.
+
+He does such dumb shit its insane.",2,{'tesla'}
+105,DrSkoolie,I'm subscribed to a Musk cultist on YouTube and I just want to see his face when Tesla goes down in value.,194,{'tesla'}
+106,rusbus720,"Those funds will sell before he gets his.
+
+They’re all watching this unravel now and they won’t be left holding bags.
+
+It started with ESG funds kicking tesla out.",161,{'tesla'}
+107,pmgoldenretrievers,"I'm here to mock the people who said TSLA was going to hit 3,000 within a year or two. People on this sub are deranged.",24,{'tsla'}
+108,Impressive-Test-2310,Chairman of WSB. Why ? I lost all my tesla shares for Twitter.,13,{'tesla'}
+109,lafindestase,"Tesla bots are coming! If the bots replace 100 million American workers with an average income of $50,000 each, and upkeep/development cost 50% of that (all very conservative numbers), that’s a future yearly profit of 2.5 trillion dollars from the bots alone. Tesla is absurdly undervalued at $650.",3,"{'cost', 'tesla'}"
+110,davef139,"TSLA share price means nothing to Twitter, the deal wasn't for stock it was for cash.. That would be between Elon and whoever finances.",1,{'tsla'}
+111,Professorbubba,"Boring and Hyperloop are close to shuttering, Solar is dead. TSLA was never his company, it was started by smart people.",62,{'tsla'}
+112,birdbraint,"You need to have hugely narccistic and risky people to make world-changing companies (Apple with Steve Jobs, Amazon with Bezos, etc.). It's not coincidence that Tesla and SpaceX would have failed without Musk.
+
+Tesla is at a point where they would be perfectly fine without Musk though. They have enough revenue and profits flowing in to match a traditional niche automaker at this point.",19,"{'tesla', 'amazon'}"
+113,m0nk_3y_gw,"> Elon wanted to divest a bunch of Tesla shares without cratering the stock
+
+Are we watching the same show?
+
+Elon is all about cratering the stock.
+
+Elon was sane and quiet last summer/early fall.  He skipped the earnings report call.  Without the Elon shit-show distraction Wall Street looked at numbers the adults at Tesla were presenting.  The stock zoomed 50% (800 to 1200) in weeks, until Elon woke-up and started acting like a clown again - ""selling 10%"" dropped it from 1200 to 900, but then it recovered to 1100 so he had to murder it again with ""i'm buying twitter"".   Having too many employees retire multi-millionaires in 2022 would have severely impacted Tesla's future.  Join today at $600 stock options to drive it to $2000 in 4 years (vesting schedule) is much more attractive than joining at $1500 stock options to drive it to $2k in 4 years.",1,{'tesla'}
+114,TalkingBackAgain,">he's probably able to get more outside financing pretty easily
+
+Not in this market he’s not. Plus Twitter isn’t worth billions of Dollars at all. If Tesla is overpriced, $45 billion for Twitter is insanity. There’s no value there or at least not a lot of it. I wouldn’t pay so much as a billion for Twitter. There’s no way to make that money back. $45 billion is a castle in the sky at the best of times, in this market, with everything tanking when a bunch of clowns at $SNAP make a bit of a mopey face over future numbers, Twitter is nothing.
+
+Who would lend money to a guy to buy Twitter? Musk has already more than rued the fact that he ever opened his mouth about that deal and he’s conveniently hiding behind the amount of bot accounts to renege on his offer.",34,{'tesla'}
+115,EducatingMorons,"He's obviously faking it. He put his last salary all in Tesla puts AFTER they were already down 40%, now he hopes for a further 40% decrease to break even XD - it is the way of this sub.",5,{'tesla'}
+116,EducatingMorons,"Yes only because of Twitter, there were never any sensational negative news about Tesla or Elon before that ever! Nobody was butt-hurt about Tesla mooning at all.   
+
+
+And the whole market going down is a total coincidence and has nothing at all to do with TSLA.",13,{'tesla'}
+117,Impressive-Test-2310,I mean if I would hold tesla shares right now than I would be a bit scared,12,{'tesla'}
+118,KyivComrade,"Nah bro, just trust him. He's a diehard Tesla fan and a majority of his karma is from posting Pro testa posts, he's totally trustworthy /s.
+
+
+
+Damn, not even China makes it as obvious when they're having online users shilling. I bet my Car he's got no source except ""told you so"" and hopium",9,{'tesla'}
+119,AoLzHeLL,Wanted to sell tesla shares before the crash,4,{'tesla'}
+120,GainsayRT,Tesla will literally cure cancer why are you making fun of them >:(,21,{'tesla'}
+121,DesmondMilesDant,Then explain why is tesla going down. Honestly it had the best earnings in 2022.,3,{'tesla'}
+122,grow_on_mars,You just either made that up or are repeating things on the internet. He wasn’t original founder of Tesla but it’s his company. Anything else said is grossly inaccurate.,4,{'tesla'}
+123,Bael18,"Tesla would almost certainly run better without Elon. He is an excellent ideas guy and salesman, but a shit everyday manager.",14,{'tesla'}
+124,Reaps21,It's be interesting to see where Tesla would go if Elon left the company entirely,2,{'tesla'}
+125,rusbus720,"Tesla is now their third largest holding.
+
+Gotta reduce their exposure way more while telling idiots that it’s going to $4500",9,{'tesla'}
+126,brintoul,"Well TSLA is a scam too, so…",72,{'tsla'}
+127,PalpitationNo3106,"I’m convinced ME was why MS finally settled the anti-trust suit with the Feds. The DoJ is like, ‘you say you aren’t a monopoly, but then why is everyone using this piece of trash software, huh? Should we bring this up in court, too?’ MS: fine, fine, no more Internet Explorer.",7,{'ms'}
+128,SkywingMasters,"TSLA puts have been a goldmine for me. 
+
+And all the fanboys think they're the ones getting rich and the shorts are getting destroyed on TSLA. 
+
+Cults gonna cult",101,{'tsla'}
+129,Rapeanaugh,">	so both parties are exact opposite sides from where they started. LOL
+
+Yes, pretty much. Elon woke up and decided that while selling off a large chunk of Tesla before a large crash is a good idea, sinking all that money into a struggling company like Twitter isn't the best idea. 
+
+Twitter on the other hand is popping champagne because they know nobody in Hell would pay $50 a share for their floundering company, but they lined up a Rube offering $54.20",11,{'tesla'}
+130,__o_0,If I had $100B in Tesla shares I’d be just fine.,2,{'tesla'}
+131,redmars1234,They looking real quiet ounce you posted that. Alas I’ve said to much and I don’t want to be a party pooper for all the Tesla bears here.,4,{'tesla'}
+132,LiquidVibes,"I made millions on Tesla so yes naturally I am a fanboy. I'm 25 years old btw and I don't need your car, I got my X Plaid but thanks for your offer! :).  Here's the [Source](https://www.bloomberg.com/news/articles/2022-05-05/elon-musk-secures-7-2-billion-in-new-financing-for-twitter-deal)
+
+Sorry I was off by $2B. I was just going off the top of my head. But yeah he drastically reduced the Margin Loan so my point still stands",-2,{'tesla'}
+133,birdbraint,"Someone should have told Elon Musk that he was rich, because apparently he did not know and worked hard physical labor for years:
+
+https://www.cnbc.com/2020/01/03/odd-jobs-elon-musk-had-when-he-was-younger.html
+
+Musk's father is estranged from the rest of the family. His father has absolutely nothing to do with Musk. And a wealthy South African from the 70s is about as wealthy as any normal middle class person in a non-crappy country. By your logic, most every single person in WSB should be as wealthy as Musk. Turns out everybody in WSB is wealthy if you simply have them move to a country where 90% of the population lives in squalid poverty!
+
+Spreading lies about a man who already has a million incredibly easy to target personality flaws is perhaps the most retarded thing you can do.
+
+Random aside, I personally would love to see Tesla crash in value. Riding that rocket up a second time will be glorious.",-1,"{'tesla', 'target'}"
+134,JaFFsTer,"Yes, cash.  Filling a safe with Rand isnt that hard when youre in the gem trade in southe africa. They were millionaires, they cannot bail out TSLA.  Elon has been a billionaire since the paypal sale 20 odd years ago and wildly outstripped the family wealth in his 20s.",-10,{'paypal'}
+135,Pekkis2,"Back when there were 4 non-ICE car models on the market Tesla made sense as an ESG play, but the entire automotive industry has responded to Tesla's success",4,{'tesla'}
+136,HistoryAndScience,Apple gang here BUT I used Vista in high school on an Acer laptop and it wasn’t awful. Honestly I find that the Vista setup could have been a lot better than whatever the new Windows looks like/feels like (I use it for work),2,{'apple'}
+137,ValueScreener,"I’ve lost so much money on TSLA puts, maybe it’s time to try again",35,{'tsla'}
+138,Vast_Bag1329,learn to screenshot tard. Good job on TSLA fuck elon musk,15,{'tsla'}
+139,VenomInfusion,Congrats OP! Now don’t fuck it up. I don’t wanna c any loss porn from u.,2,{'c'}
+140,Ofiller,"I wanted to buy a TSLA 750 PUT a few months ago with expiration in june. But the price were so high that I wussed out. I got an 450 put instead and a 410, both expiring june 17. 
+Main take away is I am not retarded enough or maybe I am too retarded who the fuck knows",0,{'tsla'}
+141,DiamondHands007,"AMZN 5/27 2150 2130 / 2000P
+
+GOOGL 5/27 2200 / 2150 /1980P
+
+GOOGL 6/3 1980P
+
+TSLA 5/27 675 / 650
+
+TSLA 6/3 650 / 600P",5,{'amzn'}
+142,DiamondHands007,"Yes. That's why I closed those out this morning I met my gain (if I can achieve 100k for the day) and didn't want to yolo from today until Friday. Plus I have some NVDA and COST and WDAY that I didn't close.
+
+I currently have 70k basis in option contracts opened. Only the NVDA COST and WDAY expire 5/27. The rest are scattered out in the future. I'm down $9300 total which is a bit misleading since I yolo a bunch of ZM puts  and down $3850 of that total 9300 amount.",1,"{'met', 'nvda', 'cost'}"
+143,DiamondHands007,Thanks brutha. Didn't anticipate the SNAP blessing but was confident GOOGL had more room to drop by Friday close. Will never know!,1,{'googl'}
+144,Lolkac,cut on starbucks latte,1,{'starbucks'}
+145,Cockballzz,Tell them you don't need financial advice because you already did your DD and that you are an active member of r/wallstreetbets,1,{'dd'}
+146,lylemcd,When one (or both) of the D's in doing your DD means diarrhea,2,{'dd'}
+147,delawopelletier,Didn’t Elon sell a bunch of Tesla shares at market high for Twitter he can buy back now at discount?,1,{'tesla'}
+148,_Ulterior,"who -- cares?
+
+I have never ordered anything from amazon nor will I afford Tesla, so fck them all",1,{'amazon'}
+149,Crimson_Kang,"I worked for Amazon and hate Bezos with the fiery passion of a thousand suns. I've always hated Musk too but not nearly as much and mostly because he always seemed like a massive tool. Probably because he is.
+
+And whoever wants to can downvote me all you like, it won't change the fact I hope someone beats the both of them to death with a shovel. Fuck em'.",-1,{'amazon'}
+150,Ublockedmelul,It cost extra if you want to wear pants.,2,{'cost'}
+151,General_Asleep,How many Tesla shares could it cost Michael? 2 millions?,3,"{'cost', 'tesla'}"
+152,wizardstrikes2,The SEC keeps everything it fines unless….unless it can be directly attributed to specifically identifable investor losses.  Which is almost never.  The money the SEC gets.   Wait for it…. Funds the SEC…….  No conflict of interest there lol.  They made a joke law in 2002 to prevent this but the law doesn’t work.  Almost all the money goes into a general fund and the Sarbanes-Oxley Act is a scam just like the SEC.  It basically offers no protection at an astronomical cost to implement.,1,{'cost'}
